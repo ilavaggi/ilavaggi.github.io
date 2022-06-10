@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
+title: Contactanos vía Whatsapp
 permalink: /about/
 ---
 
-Test
+[Presioná el siguiente link](wa.me/542944603307) o escaneá el código QR para ponerte en contacto con nosotros
 
-### More Information
-
-Recontratest
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+![Imagen]({{ site.baseurl }}/images/whatsapp.jpg)
