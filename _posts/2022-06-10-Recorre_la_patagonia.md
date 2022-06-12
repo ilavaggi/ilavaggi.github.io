@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Blitz - Rent a Car
+title: Recorré la patagonia con nosotros
+image: ({{ site.baseurl }}/images/recorre.jpg)
 ---
-
-Alquiler de autos en la patagonia
 
 Recorré 🙌🏼 Reservá un auto para las vacaciones de invierno! Que estas esperando para conocer el sur de Argentina?
 

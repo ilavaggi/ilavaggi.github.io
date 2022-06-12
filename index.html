@@ -8,10 +8,10 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
--
+-     
       <div class="entry">
-        Alquiler de autos en la patagonia
-        Recorré 🙌🏼 Reservá un auto para las vacaciones de invierno! Que estas esperando para conocer el sur de Argentina?
+        {{ post.excerpt }}
+        <img src="{{ site.baseurl }}/images/{{ post.image }}">
       </div>
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Leer más</a>
 
