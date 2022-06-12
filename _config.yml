@@ -6,10 +6,10 @@
 name: Blitz - Rent a Car
 
 # Short bio or description (displayed in the header)
-description: Página en construcción - ¡Volvé pronto para más novedades!
+description: Alquiler de autos en la Patagonia
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ({{ site.baseurl }}/images/config.png)
+avatar: ({{ site.baseurl }}/images/logo.png)
 
 #
 # Flags below are optional
