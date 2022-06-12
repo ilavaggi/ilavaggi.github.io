@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recorré la patagonia con nosotros
-image: ({{ site.baseurl }}/images/recorre.jpg)
+image: /images/recorre.jpg
 ---
 
 Reservá un auto para las vacaciones de invierno! Que estas esperando para conocer el sur de Argentina?
