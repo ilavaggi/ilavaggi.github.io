@@ -27,7 +27,9 @@
 
           <nav>
             <a href="{{ site.baseurl }}/about"><img src="{{ site.baseurl }}/images/whatsapp-icon.png" wi>  Contactanos</a>
+            <br>
             <a href="{{ site.baseurl }}/about"><img src="{{ site.baseurl }}/images/correo-electronico.png" wi>blitzpatagonia@gmail.com</a>
+            <br>
             <a href="{{ site.baseurl }}/about"><img src="{{ site.baseurl }}/images/telefono.png" wi>+54 9 2944 60-3307</a>
           </nav>
         </header>
@@ -50,4 +52,10 @@
 
     {% include analytics.html %}
   </body>
+  <style>
+    nav a {
+      display: block;
+      margin-bottom: 10px;
+    }
+  </style>
 </html>
